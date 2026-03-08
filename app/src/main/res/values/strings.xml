@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ثمانية</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_community">المجتمع</string>
+    <string name="nav_profile">حسابي</string>
+
+    <!-- Top Bar -->
+    <string name="greeting">مساء الخير</string>
+    <string name="user_name">عبدالرحمن</string>
+    <string name="switch_language">تغيير اللغة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="settings">الإعدادات</string>
+
+    <!-- Home Screen -->
+    <string name="retry">إعادة المحاولة</string>
+    <string name="no_content_available">لا يوجد محتوى متاح</string>
+    <string name="error_occurred">حدث خطأ، يرجى المحاولة مرة أخرى</string>
+    <string name="error_network">لا يوجد اتصال بالإنترنت، يرجى التحقق من الشبكة</string>
+    <string name="error_server">حدث خطأ في الخادم، يرجى المحاولة لاحقاً</string>
+    <string name="error_unknown">حدث خطأ غير متوقع</string>
+    <string name="category_all">الكل</string>
+    <string name="category_podcast">البودكاست</string>
+    <string name="category_audio_books">الكتب الصوتية</string>
+    <string name="category_articles">المقالات</string>
+    <string name="category_episodes">الحلقات</string>
+
+    <!-- Search Screen -->
+    <string name="search_placeholder">بحث…</string>
+    <string name="search_idle_message">ابحث عن بودكاست، حلقات، والمزيد</string>
+    <string name="no_results_found">لم يتم العثور على نتائج</string>
+
+    <!-- Section Header -->
+    <string name="see_all">عرض الكل</string>
+
+    <!-- Content -->
+    <string name="episode_count_format">%d حلقة</string>
+    <string name="duration_hours_minutes">%1$dس %2$dد</string>
+    <string name="duration_minutes">%1$dد</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_now_playing">يتم التشغيل الآن</string>
+    <string name="cd_play">تشغيل</string>
+    <string name="cd_search">بحث</string>
+    <string name="cd_loading">جاري التحميل</string>
+
+    <!-- Language -->
+    <string name="language_code">ar</string>
+    <string name="language_label">EN</string>
+</resources>

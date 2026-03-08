@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Thmanyah</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Top Bar -->
+    <string name="greeting">Good evening</string>
+    <string name="user_name">Abdulrahman</string>
+    <string name="switch_language">Switch language</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="retry">Retry</string>
+    <string name="no_content_available">No content available</string>
+    <string name="error_occurred">An error occurred, please try again</string>
+    <string name="error_network">No internet connection, please check your network</string>
+    <string name="error_server">Server error, please try again later</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+    <string name="category_all">All</string>
+    <string name="category_podcast">Podcasts</string>
+    <string name="category_audio_books">Audio Books</string>
+    <string name="category_articles">Articles</string>
+    <string name="category_episodes">Episodes</string>
+
+    <!-- Search Screen -->
+    <string name="search_placeholder">Search…</string>
+    <string name="search_idle_message">Search for podcasts, episodes, and more</string>
+    <string name="no_results_found">No results found</string>
+
+    <!-- Section Header -->
+    <string name="see_all">See all</string>
+
+    <!-- Content -->
+    <string name="episode_count_format">%d episodes</string>
+    <string name="duration_hours_minutes">%1$dh %2$dm</string>
+    <string name="duration_minutes">%1$dm</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_now_playing">Now playing</string>
+    <string name="cd_play">Play</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_loading">Loading</string>
+
+    <!-- Language -->
+    <string name="language_code">en</string>
+    <string name="language_label">ع</string>
+</resources>
